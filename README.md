@@ -1,2 +1,2 @@
 # html-portfolio
-The beggining of my HTML journey
+The begining of my HTML journey
